@@ -64,12 +64,12 @@ with col1:
     st.markdown("Extract key information from a product review.")
     st.markdown("""
         - Sentiment
-        - How long took it to deliver?
+        - How long it took to deliver?
         - How was its price perceived?
         """)
 
 with col2:
-    st.write("Contact with [AI Accelera](https://aiaccelera.com) to build your AI Projects")
+    st.write("")
 
 
 #Input OpenAI API Key
